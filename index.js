@@ -1,12 +1,7 @@
-let age = "50";
-let awesome = false;
-let myStatus = "are";
+let fullName = "Matt Olenn";
+let age = 50;
+let student = false;
 
-awesome ? myStatus = "are" : myStatus = "are not"
-
-console.log(age);
-
-console.log(`You are ${age} years old and you ${myStatus} awesome.`)
-console.log(typeof age);
-console.log(awesome);
-console.log(typeof awesome);
+document.getElementById("p1").textContent = `Your Name: ${fullName}`;
+document.getElementById("p2").textContent = `Your Age: ${age}`;
+document.getElementById("p3").textContent = `Student Status: ${student}`;
