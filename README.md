@@ -16,6 +16,7 @@ From [Bro Code's YouTube channel](https://youtu.be/lfmg-EJ8gm4?si=yPvTYS3wx6eC94
     - **division**: `/`
     - **exponent**: `**`
     - **modulus**: `%`
+  - **augmented assignment operators**:
     - **increment by value**: `+=`
     - **decrement by value**: `-=`
     - **multiply by value**: `*=*`
@@ -25,3 +26,10 @@ From [Bro Code's YouTube channel](https://youtu.be/lfmg-EJ8gm4?si=yPvTYS3wx6eC94
     - **increment by one**: `++`
     - **decrement by one**: `--`
   - **operands**: Anything that the operators work on. In the example `11 = x + 5`, the operands are `11`, `x`, and `5`.
+  
+  ### Operator Precendence
+
+  1. parenthesis ()
+  2. exponents
+  3. multiplication & division & modulo
+  4. addition & subtraction
