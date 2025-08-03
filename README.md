@@ -8,3 +8,6 @@ From [Bro Code's YouTube channel](https://youtu.be/lfmg-EJ8gm4?si=yPvTYS3wx6eC94
   - Declaration: `let x;`
   - Assignment: `x = 100;`
   - Combined: `let x = 100;` - Probably most often used, but it's two statements combined.
+- **arithmetic operators**: Tools that allow you to perform arithmetic functions.
+  - **operators**: (`+ - * /`)
+  - **operands**: Anything that the operators work on. In the example `11 = x + 5`, the operands are `11`, `x`, and `5`.
