@@ -7,3 +7,4 @@ From [Bro Code's YouTube channel](https://youtu.be/lfmg-EJ8gm4?si=yPvTYS3wx6eC94
 - **variable**: A container that stores a value. It behaves as if it is the value it contains.
   - Declaration: `let x;`
   - Assignment: `x = 100;`
+  - Combined: `let x = 100;` - Probably most often used, but it's two statements combined.
