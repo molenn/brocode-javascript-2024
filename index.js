@@ -1,6 +1,5 @@
-let x;
-let y;
+let age = 50;
 
-x = 100;
+console.log(age);
 
-console.log(x);
+console.log(`You are ${age} years old.`)
