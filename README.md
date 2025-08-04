@@ -38,4 +38,5 @@ VScode Multi-line Comment: `Shift + Alt + A`
 
   ### Accepting User Input | Type Conversion
 
-  xxx
+  - Accept user input via a window dialog or an HTML input, with the latter preferred.
+  - Use document.getElementById() to target the element's value you want to grab.
