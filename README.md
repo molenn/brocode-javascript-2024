@@ -40,3 +40,6 @@ VScode Multi-line Comment: `Shift + Alt + A`
 
   - Accept user input via a window dialog or an HTML input, with the latter preferred.
   - Use document.getElementById() to target the element's value you want to grab.
+  - `Number()`: Function will cast your variable to a number.
+  - `String()`: Function will cast your variable to a string.
+  - `Boolean()`: Function will cast your variable to a boolean.
