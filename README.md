@@ -62,3 +62,4 @@ VScode Multi-line Comment: `Shift + Alt + A`
   - `Math.sign()`: Find the sign of (i.e., pos, neg, or zero).
   - `Math.max()`: Maximum value of a set of variables.
   - `Math.min()`: Minimum value of a set of variables.
+  - `Math.random()`: Generate a random number between zero and one.
