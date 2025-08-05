@@ -48,3 +48,17 @@ VScode Multi-line Comment: `Shift + Alt + A`
   ### Counter Terminal | Math Object
 
   - Saw where the Counter program was going and created it without following along.
+  - `Math.round()`: Rounds to the nearest whole number.
+  - `Math.floor()`: Always rounds down.
+  - `Math.ceil()`: Always rounds up.
+  - `Math.trunc()`: Truncates any decimal.
+  - `Math.power()`: Raise to the power of.
+  - `Math.sqrt()`: Find the square root.
+  - `Math.log()`: Find the log of.
+  - `Math.sin()`: Find the sine of.
+  - `Math.cos()`: Find the consine of.
+  - `Math.tan()`: Find the tangent of.
+  - `Math.abs()`: Find the absolute value of.
+  - `Math.sign()`: Find the sign of (i.e., pos, neg, or zero).
+  - `Math.max()`: Maximum value of a set of variables.
+  - `Math.min()`: Minimum value of a set of variables.
