@@ -44,3 +44,7 @@ VScode Multi-line Comment: `Shift + Alt + A`
   - `String()`: Function will cast your variable to a string.
   - `Boolean()`: Function will cast your variable to a boolean.
   - `const`: Declares a variable as constant so it cannot be changed.  There is a convention to use ALL-CAPS for primitive values (e.g., PI) or InitialCaps for strings, etc.  Will throw an uncaught type error if you try to reassign it.
+
+  ### Counter Terminal
+
+  xxx
