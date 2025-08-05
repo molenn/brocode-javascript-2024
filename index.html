@@ -7,10 +7,12 @@
     <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-    <h1 id="myH1">Welcome</h1>
-    <label>Username: </label>
-    <input id="myText" /><br />
-    <button id="mySubmit">Submit</button>
+    <label id="countLabel">0</label><br />
+    <div id="btnContainer">
+        <button id="decreaseBtn">Decrease</button>
+        <button id="resetBtn">Reset</button>
+        <button id="increaseBtn">Increase</button>
+    </div>
     <!-- Bro recommends putting your .js at the end of the file so that all the HTML loads even if there is an error. I remember there being a statement - I think import - that alleviates the need for this that I learned in the Hendriksen tutorial, but I can't remember it off hand. -->
     <script src="index.js"></script>
 </body>
