@@ -45,7 +45,7 @@ VScode Multi-line Comment: `Shift + Alt + A`
   - `Boolean()`: Function will cast your variable to a boolean.
   - `const`: Declares a variable as constant so it cannot be changed.  There is a convention to use ALL-CAPS for primitive values (e.g., PI) or InitialCaps for strings, etc.  Will throw an uncaught type error if you try to reassign it.
 
-  ### Counter Terminal | Math Object
+  ### Counter Terminal | Math Object | Random Number Generator
 
   - Saw where the Counter program was going and created it without following along.
   - `Math.round()`: Rounds to the nearest whole number.
