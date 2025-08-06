@@ -63,3 +63,7 @@ VScode Multi-line Comment: `Shift + Alt + A`
   - `Math.max()`: Maximum value of a set of variables.
   - `Math.min()`: Minimum value of a set of variables.
   - `Math.random()`: Generate a random number between zero and one.
+
+  ### If Statements
+
+  This is gonna be a short one.  My head is not in the game today.
