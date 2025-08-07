@@ -73,3 +73,4 @@ VScode Multi-line Comment: `Shift + Alt + A`
   ### The .checked Property
 
   Shows whether a checkbox is checked or not.
+  Holy crap! If the `for=""` attribute of a `<label...` element matches the `id` of another element, clicking on that element will affect the labeled element. For example: Matching a checkbox label to its checkbox input type means the box will check *if you click the label text*!
