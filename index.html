@@ -8,7 +8,18 @@
 </head>
 <body>
     <input type="checkbox" id="myCheckbox">
-    <label for="myCheckbox">Surbscroob.</label>
+    <label for="myCheckbox">Surbscroob.</label><br />
+
+    <input type="radio" id="visaBtn" name="card">
+    <label for="visaBtn">Visa</label><br />
+    <input type="radio" id="masterCardBtn" name="card">
+    <label for="masterCardBtn">MasterCard</label><br />
+    <input type="radio" id="payPalBtn" name="card">
+    <label for="payPalBtn">PayPal</label><br />
+
+    <button type="submit" id="mySubmit">submit</button><br />
+
+    <p id="subResult"></p>
     <!-- Bro recommends putting your .js at the end of the file so that all the HTML loads even if there is an error. I remember there being a statement - I think import - that alleviates the need for this that I learned in the Hendriksen tutorial, but I can't remember it off hand. -->
     <script src="index.js"></script>
 </body>
