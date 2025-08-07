@@ -69,3 +69,7 @@ VScode Multi-line Comment: `Shift + Alt + A`
   This is gonna be a short one.  My head is not in the game today.
   OMG this is boring.
   Checking in on Day 2 for this, bruh.
+
+  ### The .checked Property
+
+  Shows whether a checkbox is checked or not.
